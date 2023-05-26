@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Hanbi-Kim&fontAlign=70)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&lines=Welcome+hanbi's+github&font=Redressed&size=30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&lines=Welcome+hanbi's+github&size=30)](https://git.io/typing-svg)
 <br>
 
 <div align="center">
