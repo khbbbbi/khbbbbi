@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&animation=fadeIn&section=header&text=Hanbi-Kim&fontAlign=70)
-
-<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&lines=Welcome+to+my+github&font=Redressed&size=30)](https://git.io/typing-svg)
-  
+
+<div align="center">
 <!-- stats -->
 <img src = "https://github-readme-stats.vercel.app/api?username=khbbbbi&show_icons=true&theme=onedark">
 <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khbbbbi&layout=compact&theme=nord&hide_border=true" />
