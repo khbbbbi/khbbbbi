@@ -4,7 +4,7 @@
 <br>
     
 <!-- 방문자,sns -->
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/khbbbbi/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhbbbbi%2F&count_bg=%23D8F27D&title_bg=%23555555&icon=github.svg&icon_color=%23D8F27D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://velog.io/@hamba" target="_blank"><img src="https://img.shields.io/badge/velog-82c59c?style=flat&logo=velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/o_ham.ba/" target="_blank"><img src="https://img.shields.io/badge/Instagram-e598b2?style=flat&logo=Instagram&logoColor=white"/></a>
     
