@@ -1,17 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hanbi-Kim&fontSize=80)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome+hanbi's+github&font=Redressed&size=40)](https://git.io/typing-svg)
 
 <!-- stats -->
 <p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=khbbbbi&show_icons=true&theme=onedark">
 <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khbbbbi&layout=compact&theme=nord&hide_border=true" /></p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello&font=Redressed&size=40)](https://git.io/typing-svg)
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khbbbbi&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=khbbbbi&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+<br>
+
+
 
 <br>
 
