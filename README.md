@@ -1,7 +1,7 @@
-<div align="center">
+
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&lines=Welcome+to+Hanbi's+github&font=Redressed&size=50)](https://git.io/typing-svg)
-
+<div align="center">
 <br>
 <!-- stats -->
 <img src = "https://github-readme-stats.vercel.app/api?username=khbbbbi&show_icons=true&theme=onedark">
