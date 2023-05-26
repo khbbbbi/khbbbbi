@@ -1,6 +1,5 @@
-
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&lines=Welcome+to+Hanbi's+github&font=Redressed&size=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&lines=Welcome+to+Hanbi's+github&font=Redressed&size=40)](https://git.io/typing-svg)
+---
 <div align="center">
 <br>
 <!-- stats -->
@@ -18,3 +17,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&animation=fadeIn&section=footer&text=🚗💨&fontAlign=70)
     
 </div>
+
+<!-- 
+참고 사이트 : https://github.com/dkssud8150/dkssud8150 
+-->
