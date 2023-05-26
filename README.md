@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&lines=Welcome+my+github&font=Redressed&size=30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&lines=Welcome+to+my+github&font=Redressed&size=30)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&animation=fadeIn&section=footer&text=Hanbi-Kim&fontAlign=70)
 <br><br>
 <div align="center">
