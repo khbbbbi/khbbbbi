@@ -14,7 +14,7 @@
 <a href="https://velog.io/@hamba" target="_blank"><img src="https://img.shields.io/badge/velog-82c59c?style=flat&logo=velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/o_ham.ba/" target="_blank"><img src="https://img.shields.io/badge/Instagram-e598b2?style=flat&logo=Instagram&logoColor=white"/></a>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&animation=fadeIn&section=footer&text=🚗💨&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗💨&fontAlign=70)
     
 </div>
 
