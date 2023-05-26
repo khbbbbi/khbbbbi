@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hanbi-Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hanbi-Kim&fontSize=80)
 
 <p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=khbbbbi&show_icons=true&theme=onedark">
 <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khbbbbi&layout=compact&theme=nord&hide_border=true" /></p>
