@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hanbi-Kim&fontSize=80)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hanbi-Kim&fontSize=80) -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Hanbi-Kim&fontAlign=70)
 
 <div align="center">
   
